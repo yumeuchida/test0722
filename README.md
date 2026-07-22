@@ -8,5 +8,9 @@ test0722
 class Main {
     public static void main(stirng[] args) {
     }
+
+    public static string hello() {
+        return "hello";
+    }
 }
 ```
