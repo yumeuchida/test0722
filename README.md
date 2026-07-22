@@ -12,5 +12,9 @@ class Main {
     public static string hello() {
         return "hello";
     }
+
+    public static string morning() {
+        return "morning";
+    }
 }
 ```
